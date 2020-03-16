@@ -8,7 +8,7 @@ Teste Linpack realizado em um Windows 10 Home, utilizando o software Linpack Xtr
 | Característica                                            | Computador no TOP500  | Meu computador  |
 | --------------------------------------------------------- | --------------------- | --------------- |
 | Nome/Título                                               |           Frontera            |Notebook Lenovo IdeaPad 330 81FE0001BR                 |
-| Imagem (foto, diagrama, screenshot, etc.)                 | <img src="https://i.zst.com.br/images/notebook-lenovo-ideapad-330-intel-core-i5-8250u-8-geracao-8gb-de-ram-hd-1-tb-15-6-windows-10-ideapad-330-photo570871599-12-27-32.jpg" width="100"> | <img src="https://scx1.b-cdn.net/csz/news/800/2019/fronteraname.jpg" width="100">|
+| Imagem (foto, diagrama, screenshot, etc.)                 | <img src="https://scx1.b-cdn.net/csz/news/800/2019/fronteraname.jpg" width="130"> | <img src="https://i.zst.com.br/images/notebook-lenovo-ideapad-330-intel-core-i5-8250u-8-geracao-8gb-de-ram-hd-1-tb-15-6-windows-10-ideapad-330-photo570871599-12-27-32.jpg" width="130">|
 | Classificação de Flynn                                    |    MIMD               |     SISD        |
 | Memória: compartilhada, distribuída ou ambas?             |          Distribuída             |      Compartilhada           |
 | Número total de núcleos de processamento                  |               448448        |          4       |
